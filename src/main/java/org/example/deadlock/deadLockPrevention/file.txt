@@ -1,0 +1,5 @@
+
+
+Deadlock prevention type :
+
+    - Lock Reordering : two threads using the same locks have to use the same order of locking
